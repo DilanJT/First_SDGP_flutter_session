@@ -1,16 +1,15 @@
 # practice_code
 
-A new Flutter application.
+This project is focused on understanding the basics of flutter app development
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## First flutter session | Date: 21/1/2021
+- Java oop vs Dart oop comparison
+- Structure of the widget tree
+- Using of Column and row widget
+- Importance of safeArea widget
+- Code refactoring (avoiding duplication of code)
+- values passing for the newly created classes via its constructors
+- how to update pubspec.yaml file when inserting an image asset to the app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Second flutter session |
